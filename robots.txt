@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eciscompt.github.io/sitemap.html.gz
+Sitemap: https://eciscompt.github.io/app/sitemap.html.gz
+Sitemap: https://eciscompt.github.io/assets/sitemap.html.gz
+Sitemap: https://eciscompt.github.io/css/sitemap.html.gz
+Sitemap: https://eciscompt.github.io/includes/sitemap.html.gz
+Sitemap: https://eciscompt.github.io/item/sitemap.html.gz
+Sitemap: https://eciscompt.github.io/src/sitemap.html.gz
